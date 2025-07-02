@@ -1,11 +1,11 @@
-# Advanced Logger
+# LoggerModule
 
 A Python logging utility with file and stream handlers and automatic fallback options.
 
 ## Installation
 
 ```bash
-pip install advanced-logger
+pip install LoggerModule
 ```
 
 ## Usage
